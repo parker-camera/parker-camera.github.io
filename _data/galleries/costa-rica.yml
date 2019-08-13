@@ -1,0 +1,14 @@
+picture_path: costa-rica
+preview:
+  filename: beach-from-above.jpg
+  original: beach-from-above.jpg
+  thumbnail: beach-from-above.jpg
+pictures:
+- filename: beach-from-above.jpg
+  original: beach-from-above.jpg
+  thumbnail: beach-from-above.jpg
+  title: Nosara beaches from the drone
+- filename: christian.jpg
+  original: christian.jpg
+  thumbnail: christian.jpg
+  title: Christian with a breaking wave

@@ -1,12 +1,14 @@
 picture_path: voyageurs-np
 preview:
-  filename: DJI_0531
-  original: DJI_0531.jpg
-  thumbnail: DJI_0531.jpg
+  filename: campsite-from-above.jpg
+  original: campsite-from-above.jpg
+  thumbnail: campsite-from-above.jpg
 pictures:
-- filename: DJI_0531
-  original: DJI_0531.jpg
-  thumbnail: DJI_0531.jpg
-- filename: AM0A1729
-  original: AM0A1729.jpg
-  thumbnail: AM0A1729.jpg
+- filename: campsite-from-above.jpg
+  original: campsite-from-above.jpg
+  thumbnail: campsite-from-above.jpg
+  title: Campsite R71, Loon Cove, from above
+- filename: drone-sunset.jpg
+  original: drone-sunset.jpg
+  thumbnail: drone-sunset.jpg
+  title: Rainy Lake sunset

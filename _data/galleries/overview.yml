@@ -3,5 +3,12 @@
  directory: voyageurs-np
  preview:
   filename: DJI_0531
-  original: DJI_0531.jpg
-  thumbnail: DJI_0531.jpg
+  original: campsite-from-above.jpg
+  thumbnail: campsite-from-above.jpg
+-
+ title: Costa Rica
+ directory: costa-rica
+ preview:
+  filename: beach-from-above.jpg
+  original: beach-from-above.jpg
+  thumbnail: beach-from-above.jpg

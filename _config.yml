@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Adding a Gallery to Jekyll
+title: Parker Photo Blog
 email: dcparker88@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A fun website to share photos from the Parker family and their many adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://parker.camera/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "https://parker.camera/" # the base hostname & protocol for your site
+twitter_username: dcparker88
 github_username:  parker-camera
 
 # Build settings
