@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: India Work Trips
-no_menu_item: true # required only for this example website because of menu construction
+no_menu_item: true
 support: [jquery, gallery]
 ---
 Danny travels to India for work a few times a year. This gallery has a sampling of photos from the trips.
