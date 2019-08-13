@@ -19,3 +19,10 @@
   filename: group-shot.jpg
   original: group-shot.jpg
   thumbnail: group-shot.jpg
+-
+ title: India
+ directory: india
+ preview:
+  filename: taj.jpg
+  original: taj.jpg
+  thumbnail: taj.jpg

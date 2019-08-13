@@ -1,0 +1,10 @@
+picture_path: india
+preview:
+  filename: taj.jpg
+  original: taj.jpg
+  thumbnail: taj.jpg
+pictures:
+- filename: taj.jpg
+  original: taj.jpg
+  thumbnail: taj.jpg
+  title: The Taj Mahal in the morning
