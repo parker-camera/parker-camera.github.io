@@ -1,4 +1,4 @@
-# Parker Photo Blog
+Parker Photo Blog
 Git repo for the Parker photo blog.
 
 # Testing
