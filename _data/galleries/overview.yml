@@ -20,6 +20,13 @@
   original: group-shot.jpg
   thumbnail: group-shot.jpg
 -
+ title: Chicago
+ directory: chicago
+ preview:
+  filename: IMG_3667.jpg
+  original: IMG_3667.jpg
+  thumbnail: IMG_3667.jpg
+-
  title: India
  directory: india
  preview:
