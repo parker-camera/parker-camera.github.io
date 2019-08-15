@@ -1,14 +1,22 @@
 picture_path: voyageurs-np
 preview:
-  filename: campsite-from-above.jpg
-  original: campsite-from-above.jpg
-  thumbnail: campsite-from-above.jpg
+  filename: campsite-from-above.png
+  original: campsite-from-above.png
+  thumbnail: campsite-from-above.png
 pictures:
-- filename: campsite-from-above.jpg
-  original: campsite-from-above.jpg
-  thumbnail: campsite-from-above.jpg
+- filename: campsite-from-above.png
+  original: campsite-from-above.png
+  thumbnail: campsite-from-above.png
   title: Campsite R71, Loon Cove, from above
-- filename: drone-sunset.jpg
-  original: drone-sunset.jpg
-  thumbnail: drone-sunset.jpg
+- filename: drone-sunset.png
+  original: drone-sunset.png
+  thumbnail: drone-sunset.png
   title: Rainy Lake sunset
+- filename: drone-big-america.jpg
+  original: drone-big-america.jpg
+  thumbnail: drone-big-america.jpg
+  title: Big America Island from above
+- filename: milky-way.png
+  original: milky-way.png
+  thumbnail: milky-way.png
+  title: The Milky Way above the trees
