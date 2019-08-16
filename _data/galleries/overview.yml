@@ -3,15 +3,15 @@
  directory: voyageurs-np
  preview:
   filename: DJI_0531
-  original: campsite-from-above.jpg
-  thumbnail: campsite-from-above.jpg
+  original: campsite-from-above.png
+  thumbnail: campsite-from-above.png
 -
  title: Costa Rica
  directory: costa-rica
  preview:
-  filename: beach-from-above.jpg
-  original: beach-from-above.jpg
-  thumbnail: beach-from-above.jpg
+  filename: playa-barco-quebrado.png
+  original: playa-barco-quebrado.png
+  thumbnail: playa-barco-quebrado.png
 -
  title: Japan
  directory: japan
@@ -26,3 +26,10 @@
   filename: IMG_3667.jpg
   original: IMG_3667.jpg
   thumbnail: IMG_3667.jpg
+-
+ title: India
+ directory: india
+ preview:
+  filename: taj.jpg
+  original: taj.jpg
+  thumbnail: taj.jpg
