@@ -1,14 +1,21 @@
 picture_path: costa-rica
 preview:
-  filename: beach-from-above.png
-  original: beach-from-above.png
-  thumbnail: beach-from-above.png
+  filename: playa-barco-quebrado.png
+  original: playa-barco-quebrado.png
+  thumbnail: playa-barco-quebrado.png
 pictures:
-- filename: beach-from-above.png
-  original: beach-from-above.png
-  thumbnail: beach-from-above.png
-  title: Nosara beaches from the drone
+- filename: playa-barco-quebrado.png
+  original: playa-barco-quebrado.png
+  thumbnail: playa-barco-quebrado.png
+  title: Playa Barco Quebrado
 - filename: christian.jpg
   original: christian.jpg
   thumbnail: christian.jpg
   title: Christian with a breaking wave
+- filename: playa-barrigona.png
+  original: playa-barrigona.png
+  thumbnail: playa-barrigona.png
+  title: Playa Barrigona
+- filename: rocks.png
+  original: rocks.png
+  thumbnail: rocks.png
