@@ -8,10 +8,11 @@ module Jekyll
     end
 
     def render(context)
-      exif = EXIFR::JPEG::new(@image_file)
+      exif = EXIFR::JPEG::new("assets/photography/#{context[@markup.strip]}")
       <<-HTML
         #{exif.model} #{exif.focal_length.to_i}mm F#{sprintf "%.1f", exif.f_number.to_f} ISO#{exif.iso_speed_ratings} #{exif.exposure_time}
       HTML
+    rescue
     end
   end
 end
