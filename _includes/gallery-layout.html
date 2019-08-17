@@ -8,7 +8,12 @@
       <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </a>
 
+    {% capture path %}
     assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}
+    {% endcapture %}
+
+    {% exif [page.path] %}
+
 
   </div>
   {% endfor %}
