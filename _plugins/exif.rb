@@ -10,7 +10,7 @@ module Jekyll
     def render(context)
       exif = EXIFR::JPEG::new("assets/photography/#{context[@markup.strip]}")
       <<-HTML
-        #{exif.model} #{exif.focal_length.to_i}mm F#{sprintf "%.1f", exif.f_number.to_f} ISO#{exif.iso_speed_ratings} #{exif.exposure_time}
+        <p style="font-family:helvetica;font-size:85%;">#{exif.model} #{exif.focal_length.to_i}mm F#{sprintf "%.1f", exif.f_number.to_f} ISO #{exif.iso_speed_ratings} #{exif.exposure_time}</p>
       HTML
     rescue
     end
