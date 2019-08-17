@@ -26,3 +26,7 @@ defaults:
       permalink: /:path/:basename:output_ext
 
 exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
+
+# This will require each of these plugins automatically.
+plugins:
+  - exifr
