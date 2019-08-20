@@ -7,6 +7,12 @@
     {% if picture.title %} data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
       <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </a>
+
+    {% capture path %}{{ include.gallery.picture_path }}/{{ picture.original }}{% endcapture %}
+
+    {% exif {{ path }} %}
+
+
   </div>
   {% endfor %}
 </div>
