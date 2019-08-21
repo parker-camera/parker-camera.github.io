@@ -25,7 +25,7 @@ defaults:
     values:
       permalink: /:path/:basename:output_ext
 
-exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json]
+exclude: [LICENSE-CODE.md, LICENSE-IMAGES, README.md, bower.json, vendor/]
 
 # This will require each of these plugins automatically.
 plugins:
