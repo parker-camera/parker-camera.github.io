@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The Parkers are from Indiana. We like to take pictues and make videos.
+The Parkers are from Indiana. We like to take pictures and make videos.
 
 # Kaleb Parker
 Kaleb lives in Chicago...for now.
