@@ -1,0 +1,26 @@
+picture_path: colorado-mountains
+preview:
+  filename: Denver2019_Group.png
+  original: Denver2019_Group.png
+  thumbnail: Denver2019_Group.png
+pictures:
+- filename: Denver2019_Group.png
+  original: Denver2019_Group.png
+  thumbnail: Denver2019_Group.png
+  title: Colorado Mountains 2019 Group
+- filename: Denver2019_ValeDrone.png
+  original: Denver2019_ValeDrone.png
+  thumbnail: Denver2019_ValeDrone.png
+  title: Vale Frontside and Terrain Park 2019
+- filename: Denver2018_BreckSunset1.png
+  original: Denver2018_BreckSunset1.png
+  thumbnail: Denver2018_BreckSunset1.png
+  title: Breckenridge Sunset 2018
+- filename: Denver2017_Group.png
+  original: Denver2017_Group.png
+  thumbnail: Denver2017_Group.png
+  title: Colorado Mountains 2017 Group
+- filename: Denver2017_BreckSunset2.png
+  original: Denver2017_BreckSunset2.png
+  thumbnail: Denver2017_BreckSunset2.png
+  title: Breckenridge Sunset 2017
