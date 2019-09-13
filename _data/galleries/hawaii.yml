@@ -1,0 +1,30 @@
+picture_path: hawaii
+preview:
+  filename: tide-pools.jpg
+  original: tide-pools.jpg
+  thumbnail: tide-pools.jpg
+pictures:
+- filename: tide-pools.jpg
+  original: tide-pools.jpg
+  thumbnail: tide-pools.jpg
+  title: Tidepools at Makapu'u
+- filename: bee-and-flower.jpg
+  original: bee-and-flower.jpg
+  thumbnail: bee-and-flower.jpg
+  title: A bee and a flower
+- filename: haleakala-sunrise.jpg
+  original: haleakala-sunrise.jpg
+  thumbnail: haleakala-sunrise.jpg
+  title: The sunrise at Haleakalā National Park
+- filename: napali-coast-ocean.jpg
+  original: napali-coast-ocean.jpg
+  thumbnail: napali-coast-ocean.jpg
+  title: The Na Pali Coast and the ocean
+- filename: napali-coast.jpg
+  original: napali-coast.jpg
+  thumbnail: napali-coast.jpg
+  title: The Na Pali Coast
+- filename: sky-and-trees.jpg
+  original: sky-and-trees.jpg
+  thumbnail: sky-and-trees.jpg
+  title: The Milky Way and a palm tree
